@@ -1,4 +1,5 @@
-## Put comments here that give an overall description of what your
+## Introduction to R - Programing Assignment 2
+## Tony Kent 12/12/2014
 ## functions do
 
 ## Write a short comment describing this function
